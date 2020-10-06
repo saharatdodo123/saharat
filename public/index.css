@@ -1,0 +1,25 @@
+body{
+    background-color: #414b48;
+    font-family: cursive;
+}
+
+.style1{
+    font-size: 18px;
+    padding: 40px;
+    color: #d6c6b2;
+}
+
+.style2{
+    font-size: 65px;
+    line-height: 0.5px;
+    color: #d6c6b2;
+}
+
+.navbar-nav{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.nav-link{
+    color: #d6c6b2;
+}
